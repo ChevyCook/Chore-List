@@ -1,0 +1,26 @@
+[
+    {"chore": "Dishes",
+     "id": 1,
+      "name": ""
+    },
+    {"chore": "Wipe tables",
+    "id": 2,
+     "name": ""
+    },
+    {"chore": "Sweeping",
+    "id": 3,
+    "name": ""
+    },
+    {"chore": "Wipe tables",
+    "id": 4,
+    "name": ""
+    },
+    {"chore": "Sweeping",
+    "id": 5,
+    "name": ""
+    },
+    {"chore": "Trash",
+    "id": 6,
+    "name": ""
+    }
+]
